@@ -1,6 +1,6 @@
 # Olá, Eu sou o Marcelo Figueiredo    :smile:
 
-Meu nome e Marcelo, Atualmente estou cursando Gestão da Tecnologia da Informação no Instituto Federal de Educação, Ciência e Tecnologia de Sergipe no campus Propriá, recentemente cursei a matéria de programação web a qual gostei bastante do mundo do desenvolvimento Fron-End, no qual estou buscando sempre me aprofundar nas linguagens de programação e os frameworks.
+Oi meu nome e Marcelo, Atualmente estou cursando Gestão da Tecnologia da Informação no Instituto Federal de Educação, Ciência e Tecnologia de Sergipe no campus Propriá, recentemente cursei a matéria de programação web a qual gostei bastante e desde então estou buscando me aprofundar cada vez no mundo do desenvovimento web.
 
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
