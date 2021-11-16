@@ -1,6 +1,8 @@
-# Olá, Eu sou o Marcelo Figueiredo    :smile:
+# Olá, Eu sou o Marcelo    :smile:
 
-Oi meu nome e Marcelo, Atualmente estou cursando Gestão da Tecnologia da Informação no Instituto Federal de Educação, Ciência e Tecnologia de Sergipe no campus Propriá, recentemente cursei a matéria de programação web a qual gostei bastante e desde então estou buscando me aprofundar cada vez no mundo do desenvovimento web.
+# Sobre mim
+- 👨‍💻 Estudante de Gestão da Tecnologia da Informação, Atualmente estou cursando o 5° Período.
+- 📌 Interese: HTML, CSS, JavaScript.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
