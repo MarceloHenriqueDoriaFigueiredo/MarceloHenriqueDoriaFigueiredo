@@ -1,4 +1,4 @@
-# Olá, Eu sou o Marcelo    :smile:
+# Olá, Eu sou o Marcelo, Bem vindo (a) ao meu github     :smile:
 
 # Sobre mim
 - 👨‍💻 Estudante de Gestão da Tecnologia da Informação, Atualmente estou cursando o 5° Período.
