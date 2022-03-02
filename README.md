@@ -1,4 +1,4 @@
-# Olá, Eu sou o Marcelo, Bem vindo (a) ao meu github     :smile:
+# Olá, Eu sou o Marcelo, Bem vindo (a) ao meu perfil GitHub     😄
 
 # Sobre mim
 - 👨‍💻 Estudante de Gestão da Tecnologia da Informação, Atualmente estou cursando o 5° Período.
@@ -21,5 +21,10 @@
   <div> 
   <a href="https://www.instagram.com/_marcelo.f/?hl=pt-br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marchenrique99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/marcelo-henrique-d%C3%B3ria-figueiredo-018518187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/marcelo-henrique-d%C3%B3ria-figueiredo-018518187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href="https://codepen.io/marcelo-f" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
+  <a href="mailto:marcelo.figueiredo10@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Codepen" /></a>
+    
+    
  </div>
