@@ -1,8 +1,8 @@
 # Olá, Eu sou o Marcelo, Bem vindo (a) ao meu perfil GitHub     😄
 
 # Sobre mim
-- 👨‍💻 Estudante de Gestão da Tecnologia da Informação, Atualmente estou cursando o 5° Período.
-- Atualmente estudando HTML, CSS e JavaScript.
+- 📚 Cursando Gestão da Tecnologia da Informação, Atualmente cursando o 6° Período.
+- 👨‍💻 Atualmente estudando JavaScript.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
