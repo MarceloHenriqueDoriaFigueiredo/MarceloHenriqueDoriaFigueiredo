@@ -1,4 +1,4 @@
-# Olá, Eu sou o Marcelo, Bem vindo (a) ao meu perfil GitHub     😄
+# Olá, Eu sou o Marcelo, Bem vindo (a) ao meu perfil GitHub 👋
 
 # Sobre mim
 - 📚 Cursando Gestão da Tecnologia da Informação, Atualmente cursando o 6° Período.
