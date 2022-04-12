@@ -1,8 +1,8 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Marcelo, Bem vindo (a) ao meu GitHub</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Marcelo</h1>
 
 # Sobre mim
 - 💻 Apaixonado por Tecnologia.
-- 📚 Cursando Gestão da Tecnologia da Informação, Atualmente cursando o 6° Período.
+- 📚 Cursando Gestão da Tecnologia da Informação.
 - 👨‍💻 Atualmente estudando JavaScript.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
