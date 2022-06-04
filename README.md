@@ -1,4 +1,4 @@
-<h1 align="left">Olá pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Eu sou o Marcelo!</h1>
+<h1 align="left">Olá pessoal 👋, Eu sou o Marcelo!</h1>
 
 # Sobre mim
 - 💻 Apaixonado por Tecnologia.
