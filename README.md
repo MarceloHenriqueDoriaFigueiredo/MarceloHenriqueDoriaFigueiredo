@@ -1,8 +1,8 @@
 <h1 align="left">Olá pessoal 👋, Eu sou o Marcelo!</h1>
 
 # Sobre mim
+- 📚 Estudante de Gestão da Tecnologia da Informação no IFS
 - 💻 Apaixonado por Tecnologia.
-- 📚 Cursando Gestão da Tecnologia da Informação.
 - 👨‍💻 Estudando Ruby.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
