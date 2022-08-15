@@ -3,7 +3,7 @@
 # Sobre mim
 - 📚 Estudante de Gestão da Tecnologia da Informação no IFS
 - 💻 Apaixonado por Tecnologia.
-- 👨‍💻 Estudando Ruby.
+- 👨‍💻 Estudando Ruby e Ruby on Rails.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
