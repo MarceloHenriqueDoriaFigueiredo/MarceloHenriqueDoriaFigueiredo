@@ -1,9 +1,9 @@
 <h1 align="left">Olá pessoal 👋, Eu sou o Marcelo!</h1>
 
 # Sobre mim
-- 📚 Estudante de Gestão da Tecnologia da Informação no IFS
-- 💻 Apaixonado por Tecnologia.
-- 👨‍💻 Estudando Ruby e Ruby on Rails.
+- 📚 Estudante de Gestão da Tecnologia da Informação no IFS.
+- 💻 Apaixonado por tecnologia e do que ela nos pode proporcionar.
+- 👨‍💻 Estudando JavaScript.
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
   <img height="144em" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
