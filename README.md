@@ -1,6 +1,6 @@
 <h1 align="left">Olá pessoal 👋, Eu sou o Marcelo!</h1>
 
-# Sobre mim
+# Sobre mim:
 - 📚 Estudante de Gestão da Tecnologia da Informação no IFS.
 - 💻 Apaixonado por tecnologia e do que ela nos pode proporcionar.
 - 👨‍💻 Estudando JavaScript.
