@@ -25,8 +25,8 @@
     <img src="https://skillicons.dev/icons?i=nextjs" width="47px" alt="icon nextjs"/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="47px" alt="icon tailwind"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" width="47px" alt="icob bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=redux" width="47px" alt="icob redux"/>
     <img src="https://skillicons.dev/icons?i=nodejs" width="47px" alt="icon nodejs"/>
+    <img src="https://skillicons.dev/icons?i=redux" width="47px" alt="icob redux"/>
 </div>
 
 # Minhas redes sociais:
