@@ -37,6 +37,6 @@
 
 <div align="center">
   <a href="https://github.com/MarceloHenriqueDoriaFigueiredo">
-  <img height="144em" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="144em" width="430px" src="https://github-readme-stats.vercel.app/api?username=MarceloHenriqueDoriaFigueiredo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="144em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHenriqueDoriaFigueiredo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
