@@ -6,7 +6,7 @@
 - 👨‍💻 Estudando JavaScript e ReactJS.
 
 # Tecnologias e ferramentas que utilizo:
-<div margin="40px">
+<div">
       <img src="https://skillicons.dev/icons?i=html" width="47px" alt="icon html"/>
       <img src="https://skillicons.dev/icons?i=css" width="47px" alt="icon css"/>
       <img src="https://skillicons.dev/icons?i=js" width="47px" alt="icon js"/>
