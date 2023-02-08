@@ -16,7 +16,6 @@
       <img src="https://skillicons.dev/icons?i=linux" width="47px" alt="icon linux"/>
       <img src="https://skillicons.dev/icons?i=react" width="47px" alt="icon react"/>
 </div>
-
   
 # Tecnologias que pretendo estudar:
 <div>
