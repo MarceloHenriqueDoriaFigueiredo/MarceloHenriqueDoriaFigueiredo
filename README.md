@@ -12,6 +12,7 @@
       <img src="https://skillicons.dev/icons?i=js" width="47px" alt="icon js"/>
       <img src="https://skillicons.dev/icons?i=git" width="47px" alt="icon git"/>
       <img src="https://skillicons.dev/icons?i=github" width="47px" alt="icon github"/>
+      <img src="https://skillicons.dev/icons?i=sass" width="47px" alt="icon sass"/>
       <img src="https://skillicons.dev/icons?i=vscode" width="47px" alt="icon vscode"/>
       <img src="https://skillicons.dev/icons?i=linux" width="47px" alt="icon linux"/>
       <img src="https://skillicons.dev/icons?i=react" width="47px" alt="icon react"/>
