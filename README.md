@@ -16,12 +16,12 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="47px" alt="icon vscode"/>
       <img src="https://skillicons.dev/icons?i=linux" width="47px" alt="icon linux"/>
       <img src="https://skillicons.dev/icons?i=react" width="47px" alt="icon react"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="47px" alt="icon typescript"/>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="47px" alt="icon styledcomponents"/>
 </div>
   
 # Tecnologias que pretendo estudar:
 <div>
-    <img src="https://skillicons.dev/icons?i=ts" width="47px" alt="icon typescript"/>
-    <img src="https://skillicons.dev/icons?i=styledcomponents" width="47px" alt="icon styledcomponents"/>
     <img src="https://skillicons.dev/icons?i=nextjs" width="47px" alt="icon nextjs"/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="47px" alt="icon tailwind"/>
     <img src="https://skillicons.dev/icons?i=bootstrap" width="47px" alt="icob bootstrap"/>
