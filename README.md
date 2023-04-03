@@ -2,8 +2,7 @@
 
 # Sobre mim:
 - 📚 Estudante de Gestão da Tecnologia da Informação no IFS.
-- 💻 Apaixonado por tecnologia e por tudo o que ela pode nos proporcionar. 
-- 👨‍💻 Estudando TypeScript e ReactJS.
+- 💻 Apaixonado por tecnologia e por tudo o que ela pode nos proporcionar.
 
 # Tecnologias e ferramentas que utilizo:
 <div>
