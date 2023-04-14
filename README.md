@@ -1,7 +1,7 @@
 <h1 align="left">Olá pessoal 👋, Eu sou o Marcelo!</h1>
 
 # Sobre mim:
-- 📚 Estudante de Gestão da Tecnologia da Informação no IFS.
+- 📚 Graduado em Gestão da Tecnologia da Informação no IFS.
 - 💻 Apaixonado por tecnologia e por tudo o que ela pode nos proporcionar.
 
 # Tecnologias e ferramentas que utilizo:
